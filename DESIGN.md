@@ -31,6 +31,15 @@ Tips
       |                //
      =*========      =**============
 + See how wrike.com do line drawing work.
+  + It uses canvas.
+  + It uses multi layers of canvas.
++ Tool name candidates
+  + MarkFlow
+    But it is already a company name.
+  + KnowledgeFlow
+  + EverFlow
+    + But it is already a company name.
+  + FlowMe
 
 Depends on
 ======
