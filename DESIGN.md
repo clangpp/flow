@@ -35,11 +35,14 @@ Tips
   + It uses multi layers of canvas.
 + Tool name candidates
   + MarkFlow
-    But it is already a company name.
+    + But it is already a company name.
   + KnowledgeFlow
   + EverFlow
     + But it is already a company name.
   + FlowMe
+  + NoteFlow
+  + Cartesian
+    + Because it provide another dimension than time.
 
 Depends on
 ======
